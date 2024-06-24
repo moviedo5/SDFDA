@@ -67,8 +67,25 @@ aaaw hich indeed convert into
 <image src="/pdf/poster_v1.pdf"/>
 in the html.
 
+ccc
 
-use
+```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
+knitr::include_graphics("./pdf/poster_v1.pdf")
+```
 
-<embed src="poster.pdf" type="application/pdf">
-or
+bbb
+
+<embed src="./pdf/poster_v1.pdf" type="application/pdf">
+
+eee
+
+![Image Title](./html/poster_v1.html){height=200%}
+
+<p align="center">
+  <img src="./pdf/poster_v1.pdf" alt="" width="350" height="350">
+</p>
+
+
+<p align="center">
+  <img src="./html/poster_v1.html" alt="" width="350" height="350">
+</p>
