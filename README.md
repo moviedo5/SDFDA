@@ -38,15 +38,15 @@ These findings present decision makers with a valuable tool to advance marine su
 
 # Poster
 
-+ Poster in PDF: ![`./pdf/poster.pdf`](./pdf/poster.pdf) (static)
++ Poster in PDF: ![`./pdf/poster.pdf`](./pdf/poster.pdf) 
 
 
-+ Poster in HTML: ![`./pdf/poster.html`](./html/poster.html){height="3000" width=105%}
++ Poster in HTML: ![`./pdf/poster.html`](./html/poster.html){height="3000" width=115%}
 
 
 Poster created by  [posterdown](https://github.com/brentthorne/posterdown).
 
-he [posterdown](https://github.com/moviedo5/fda.usc) R package  has been used for FDA analysis, including the implementation of the FAM model with variable selection.
+The [fda.usc](https://github.com/moviedo5/fda.usc) R package  has been used for FDA analysis, including the implementation of the FAM model with variable selection.
 
 
 # Acknowledgements
