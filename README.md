@@ -19,7 +19,7 @@ Please cite this paper as:
 }
 ```
 
-Authors: 
+## Authors
 
 + Manuel Oviedo de la Fuente, University of A Coruña, CITIC, MODES group, Spain. manuel.oviedo@udc.es
 + Raquel Menezes,  CMAT, Minho University, Portugal. rmenezes@math.uminho.pt
@@ -40,36 +40,14 @@ These findings present decision makers with a valuable tool to advance marine su
 
 + Poster in PDF: ![`./pdf/poster.pdf`](./pdf/poster.pdf) (static)
 
-+ aa
 
 + Poster in HTML: ![`./pdf/poster.html`](./html/poster.html){height="3000" width=105%}
 
 
-+ bb
+Poster created by  [posterdown](https://github.com/brentthorne/posterdown).
 
-![Image Title]("./pdf/poster.pdf"){width=75%}
+he [posterdown](https://github.com/moviedo5/fda.usc) R package  has been used for FDA analysis, including the implementation of the FAM model with variable selection.
 
-<img src="./pdf/poster.pdf" alt="some text"  width="4200" height="4200">
-
-
-``{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
-knitr::include_graphics("./pdf/poster.pdf")
-```
-
-
-# Installation  
-
-## 1. `fda.usc` package
-To install `fda.usc.devel` package (devel version of `fda.usc`) from Github with (2023/03/29):
-
-```{r , eval = FALSE}
-# install.packages("devtools")
-require(devtools)
-devtools::install_github("moviedo5/FRMFR/pkg/fda.usc.devel")
-```
-
-## 2. `posterdow` package
-Poster created by  [posterdown](https://github.com/brentthorne/posterdown)
 
 # Acknowledgements
 This research/work has been supported by MINECO grant MTM2017-82724-R, and by the Xunta de Galicia (Grupos de Referencia Competitiva ED431C-2020-14 and Centro de Investigación del Sistema universitario de Galicia ED431G 2019/01), all of them through the ERDF. Authors also acknowledge the FCT Foundation for funding their research through projects PTDC/MAT-STA/28243/2017, UIDB/00013/2020 and UIDP/00013/2020 and MAR2020 for funding the SARDINHA2020 project (MAR-01.04.02-FEAMP-0009).
