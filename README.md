@@ -57,35 +57,41 @@ Poster created by  [posterdown](https://github.com/brentthorne/posterdown)
 
 # Poster
 
-+ `./html/poster_v1.html`: html version (dynamic)
-+ `./html/poster_v1.pdf`: html version (static)
++ `./html/poster.html`: html version (dynamic)
++ `./pdf/poster.pdf`: html version (static)
 
-![poster](html/poster_v1.html)
 
-aaaw hich indeed convert into
+![poster](html/poster.html){height=120%}
 
-<image src="/pdf/poster_v1.pdf"/>
+aaa
+
+<image src="./pdf/poster.pdf"/>
+
+
 in the html.
 
 ccc
 
 ```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
-knitr::include_graphics("./pdf/poster_v1.pdf")
+knitr::include_graphics("./pdf/poster.pdf")
 ```
 
 bbb
 
-<embed src="./pdf/poster_v1.pdf" type="application/pdf">
+<embed src="./pdf/poster.pdf" type="application/pdf">
 
 eee
 
-![Image Title](./html/poster_v1.html){height=200%}
+![Image Title](./html/poster.html){height=80%}
 
 <p align="center">
-  <img src="./pdf/poster_v1.pdf" alt="" width="350" height="350">
+  <img src="./pdf/poster.pdf" alt="" width="350" height="350">
 </p>
-
+https://github.com/moviedo5/SDFDA/blob/main/html/poster.html
 
 <p align="center">
-  <img src="./html/poster_v1.html" alt="" width="350" height="350">
+  <img src="./html/poster.html" alt="" width="350" height="350">
 </p>
+
+# Acknowledgements
+This research/work has been supported by MINECO grant MTM2017-82724-R, and by the Xunta de Galicia (Grupos de Referencia Competitiva ED431C-2020-14 and Centro de Investigación del Sistema universitario de Galicia ED431G 2019/01), all of them through the ERDF. Authors also acknowledge the FCT Foundation for funding their research through projects PTDC/MAT-STA/28243/2017, UIDB/00013/2020 and UIDP/00013/2020 and MAR2020 for funding the SARDINHA2020 project (MAR-01.04.02-FEAMP-0009).
