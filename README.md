@@ -9,15 +9,6 @@
 Poster presented in *International Symposium on Nonparametric Statistics 2024*
 (ISNPS 2024), June 25-29, 2024 - Braga, Portugal
 
-Please cite this paper as:
-
-```
-@article{oviedo2024spfda,
-  title={Modeling LPUE  abundance of fish using functional data analysis},
-  author={Oviedo de-la Fuente, Manuel, Menezes, Raquel and Silva, Alexandra},
-  year={2024}
-}
-```
 
 ## Authors
 
@@ -47,6 +38,24 @@ These findings present decision makers with a valuable tool to advance marine su
 Poster created by  [posterdown](https://github.com/brentthorne/posterdown).
 
 The [fda.usc](https://github.com/moviedo5/fda.usc) R package  has been used for FDA analysis, including the implementation of the FAM model with variable selection.
+
+
+Please cite this poster as:
+
+
+```
+@inproceedings{oviedo2024spfda,
+  author    = "Oviedo de-la Fuente, Manuel, Menezes, Raquel and Silva, Alexandra",
+  title     = "Modeling LPUE abundance of fish using functional data analysis",
+  booktitle = "Proc. of the 6th International Symposium on Nonparametric Statistics",
+  series    = "NordiCHI",
+  year      = 2024,
+  pages     = "113",
+  address   = "June 25-29, 2024 - Braga, Portugal",
+  url       =  "https://github.com/moviedo5/SDFDA"
+}
+```
+
 
 
 # Acknowledgements
