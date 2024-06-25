@@ -31,7 +31,7 @@ These findings present decision makers with a valuable tool to advance marine su
 + Poster in PDF: ![`./pdf/poster.pdf`](./pdf/poster.pdf) 
 
 
-+ Poster in HTML: ![`./html/posterHTML.zip`](./html/posterHTML.zip)
++ Poster in HTML (with interactive plots): ![`./html/posterHTML.zip`](./html/posterHTML.zip)
 
 
 Poster created by  [posterdown](https://github.com/brentthorne/posterdown).
