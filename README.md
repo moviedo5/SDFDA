@@ -1,5 +1,4 @@
-# SDFDA:  Species Distribution using Functional Data Analysis"
-
+# SDFDA:  Species Distribution using Functional Data Analysis
 
 
 Poster presented in *International Symposium on Nonparametric Statistics 2024*
