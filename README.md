@@ -1,9 +1,5 @@
-# SDFDA
- Modelling Species Distribution Using Functional Data Analysis"
+# SDFDA:  Species Distribution using Functional Data Analysis"
 
-
-
-## Modeling LPUE  abundance of fish using functional data analysis
 
 
 Poster presented in *International Symposium on Nonparametric Statistics 2024*
@@ -16,6 +12,10 @@ Poster presented in *International Symposium on Nonparametric Statistics 2024*
 + Raquel Menezes,  CMAT, Minho University, Portugal. rmenezes@math.uminho.pt
 + Alexandra A. Silva, MARE / ARNET, Faculty of Sciences, University of Lisbon, Portugal. asilva@ipma.pt
 
+## Title
+
+
+### *Modeling LPUE  abundance of fish using functional data analysis*
 
 ## Abstract 
 Forecasting the abundance of landed fish per unit effort (LPUE) is a crucial challenge in competitive fish markets. Previous studies have addressed this issue using various models such as ARIMA, generalized linear models (GLMs), generalized additive models (GAMs), and geostatistical models like continuous Gaussian random fields (GRFs), among others used  to model species distribution in fisheries.
